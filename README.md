@@ -54,7 +54,7 @@ The Revenue and Orders Overview Dashboard provides a high-level summary of key b
 
 
 ### 2. Geographical Sales Performance
-![Geographical Sales Performance](dashboards\2.png)
+![Geographical Sales Performance](dashboards/2.png)
 
 The Geographical Sales Performance Dashboard provides an insightful visualization of sales data across different regions. This dashboard is designed to help users understand the geographical distribution of sales and identify key markets. Here are the main components of the dashboard:
 
