@@ -15,7 +15,7 @@ This project involved creating advanced dashboards in Power BI for the fictional
 ## Dashboards
 
 ### 1. Revenue and Orders Overview
-![Revenue and Orders Overview](dashboards\1.png)
+![Revenue and Orders Overview](dashboards/1.png)
 
 The Revenue and Orders Overview Dashboard provides a high-level summary of key business metrics. This dashboard is designed to offer a snapshot of the company's performance in terms of revenue, profit, orders, and return rates. Here are the main components of the dashboard:
 
@@ -76,7 +76,7 @@ The Geographical Sales Performance Dashboard provides an insightful visualizatio
 
 
 ### 3. Product Detail
-![Product Detail](dashboards\3.png)
+![Product Detail](dashboards/3.png)
 
 
 The Product Detail Dashboard provides a comprehensive view of the performance metrics of individual products. This dashboard is crucial for understanding how each product contributes to overall business performance, allowing for strategic adjustments and improvements.
@@ -110,7 +110,7 @@ The Product Detail Dashboard provides a comprehensive view of the performance me
 
 
 ### 4. Customer Detail
-![Customer Detail](dashboards\4.png)
+![Customer Detail](dashboards/4.png)
 
 This dashboard presents a detailed view of customer metrics and performance, specifically focusing on top customers, orders, and revenue. Here is a breakdown of the components included:
 
